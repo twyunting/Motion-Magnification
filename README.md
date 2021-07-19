@@ -1,5 +1,5 @@
 # Motion Magnification
-## CSC-676 Homework 4 / American University
+## CSC-676 / American University
 Author: [Yunting Chiu](https://www.linkedin.com/in/yuntingchiu)\
 April 03, 2021
 Yunting Chiu adapted from Bei Xiao. Instructor: Dr. Xiao
